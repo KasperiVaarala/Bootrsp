@@ -1,0 +1,47 @@
+html, body, h1{
+    background-color: #ff0066;
+}
+
+h1{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.carousel-item,
+.carousel-inner,
+.carousel-inner img {
+  height: 100%;
+  width: auto;
+  padding-left: 75px;
+  
+}
+
+
+.carousel {
+    height: 600px;
+  }
+
+
+
+.navbar{
+    background-color: black;
+}
+
+footer{
+    background-color: black;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: #ff0066;
+    text-align: center;
+}
+
+h5,p{
+    color:black;
+    text-align: center;
+}
+
+.info{
+    text-align: center;
+    background-color: #ff0066;
+}

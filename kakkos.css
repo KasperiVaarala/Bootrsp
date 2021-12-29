@@ -1,0 +1,32 @@
+html, body, h1, .pink, .h-brandi{
+    background-color: #ff0066;
+}
+
+.h-brandi{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.navbar{
+    background-color: black;
+}
+
+.accordion-body, .accordion-button, .accordion-collapse {
+    background-color: black;
+    color: #ff0066; 
+}
+
+
+footer{
+    background-color: black;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: #ff0066;
+    text-align: center;
+}
